@@ -1,0 +1,106 @@
+{
+    "personer": [
+        {
+            "type": "Student",
+            "navn": "Anna Jensen",
+            "alder": 30,
+            "k\u00f8n": "Kvinde",
+            "adresse": "N\u00f8rregade 12",
+            "husstand": "N\u00f8rregade 12",
+            "uddannelsesinstitution": "AAU",
+            "arbejdsplads": null,
+            "studie": "Kultur",
+            "jobtitel": null
+        },
+        {
+            "type": "Student",
+            "navn": "Peter Hansen",
+            "alder": 35,
+            "k\u00f8n": "Mand",
+            "adresse": "N\u00f8rregade 12",
+            "husstand": "N\u00f8rregade 12",
+            "uddannelsesinstitution": null,
+            "arbejdsplads": null,
+            "studie": "Teknik",
+            "jobtitel": null
+        },
+        {
+            "type": "Arbejder",
+            "navn": "Laura Smith",
+            "alder": 25,
+            "k\u00f8n": "Kvinde",
+            "adresse": "Hovedgade 3",
+            "husstand": "Hovedgade 3",
+            "uddannelsesinstitution": null,
+            "arbejdsplads": "X",
+            "studie": null,
+            "jobtitel": "Ingeni\u00f8r"
+        },
+        {
+            "type": "Arbejder",
+            "navn": "Jens Nielsen",
+            "alder": 40,
+            "k\u00f8n": "Mand",
+            "adresse": "Hovedgade 3",
+            "husstand": "Hovedgade 3",
+            "uddannelsesinstitution": null,
+            "arbejdsplads": "Y",
+            "studie": null,
+            "jobtitel": "Chef"
+        },
+        {
+            "type": "Arbejder",
+            "navn": "Jeppe Fjeldgaard",
+            "alder": 30,
+            "k\u00f8n": "Mand",
+            "adresse": "Peder Barkes Gade",
+            "husstand": "005",
+            "uddannelsesinstitution": "AAU",
+            "arbejdsplads": "Z",
+            "studie": null,
+            "jobtitel": "Post.doc"
+        },
+        {
+            "type": "Arbejder",
+            "navn": "Fie Qvist",
+            "alder": 28,
+            "k\u00f8n": "Kvinde",
+            "adresse": "Peder Barkes Gade",
+            "husstand": "005",
+            "uddannelsesinstitution": "AAU",
+            "arbejdsplads": "X",
+            "studie": null,
+            "jobtitel": "Psykolog"
+        }
+    ],
+    "husstande": [
+        {
+            "adresse": "N\u00f8rregade 12"
+        },
+        {
+            "adresse": "Hovedgade 3"
+        },
+        {
+            "adresse": "005"
+        }
+    ],
+    "institutioner": [
+        {
+            "navn": "AAU"
+        },
+        {
+            "navn": "AU"
+        }
+    ],
+    "arbejdspladser": [
+        {
+            "navn": "X"
+        },
+        {
+            "navn": "Y"
+        },
+        {
+            "navn": "Z"
+        }
+    ]
+}
